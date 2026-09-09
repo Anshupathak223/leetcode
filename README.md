@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anshupathak223/leetcode/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/Anshupathak223/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Anshupathak223/leetcode/tree/master/0162-find-peak-element) |
 ## String
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Anshupathak223/leetcode/tree/master/0162-find-peak-element) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Anshupathak223/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Anshupathak223/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
