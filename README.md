@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Anshupathak223/leetcode/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Anshupathak223/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anshupathak223/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/Anshupathak223/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anshupathak223/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Anshupathak223/leetcode/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anshupathak223/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anshupathak223/leetcode/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshupathak223/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Anshupathak223/leetcode/tree/master/0326-power-of-three) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Anshupathak223/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
