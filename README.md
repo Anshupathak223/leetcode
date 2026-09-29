@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Anshupathak223/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Anshupathak223/leetcode/tree/master/0205-isomorphic-strings) |
 | [0709-to-lower-case](https://github.com/Anshupathak223/leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Anshupathak223/leetcode/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Anshupathak223/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshupathak223/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Anshupathak223/leetcode/tree/master/0338-counting-bits) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Anshupathak223/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
