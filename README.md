@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anshupathak223/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Anshupathak223/leetcode/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/Anshupathak223/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anshupathak223/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anshupathak223/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Anshupathak223/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Anshupathak223/leetcode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/Anshupathak223/leetcode/tree/master/0496-next-greater-element-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anshupathak223/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshupathak223/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshupathak223/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
