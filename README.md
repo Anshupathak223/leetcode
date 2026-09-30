@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anshupathak223/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshupathak223/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshupathak223/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Anshupathak223/leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## String
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Anshupathak223/leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Anshupathak223/leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 <!---LeetCode Topics End-->
