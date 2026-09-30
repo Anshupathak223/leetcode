@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anshupathak223/leetcode/tree/master/0205-isomorphic-strings) |
 | [0709-to-lower-case](https://github.com/Anshupathak223/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Anshupathak223/leetcode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Anshupathak223/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Anshupathak223/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshupathak223/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anshupathak223/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Anshupathak223/leetcode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/Anshupathak223/leetcode/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/Anshupathak223/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Anshupathak223/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Matrix
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshupathak223/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Anshupathak223/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
