@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Anshupathak223/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anshupathak223/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Anshupathak223/leetcode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/Anshupathak223/leetcode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Anshupathak223/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Anshupathak223/leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshupathak223/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshupathak223/leetcode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/Anshupathak223/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Anshupathak223/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Anshupathak223/leetcode/tree/master/0392-is-subsequence) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Anshupathak223/leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Bracket Sequences
 |  |
