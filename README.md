@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anshupathak223/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Anshupathak223/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Anshupathak223/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anshupathak223/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Anshupathak223/leetcode/tree/master/0258-add-digits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshupathak223/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Anshupathak223/leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Anshupathak223/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Anshupathak223/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Anshupathak223/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anshupathak223/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
