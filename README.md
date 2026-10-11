@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshupathak223/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Anshupathak223/leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anshupathak223/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anshupathak223/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anshupathak223/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anshupathak223/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
