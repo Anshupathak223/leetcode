@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anshupathak223/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Anshupathak223/leetcode/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Anshupathak223/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Anshupathak223/leetcode/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/Anshupathak223/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anshupathak223/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshupathak223/leetcode/tree/master/0643-maximum-average-subarray-i) |
