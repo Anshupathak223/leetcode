@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anshupathak223/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anshupathak223/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Anshupathak223/leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Anshupathak223/leetcode/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anshupathak223/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshupathak223/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Anshupathak223/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Anshupathak223/leetcode/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/Anshupathak223/leetcode/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshupathak223/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
