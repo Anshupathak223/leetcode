@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anshupathak223/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anshupathak223/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Anshupathak223/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anshupathak223/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Anshupathak223/leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Anshupathak223/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anshupathak223/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Anshupathak223/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anshupathak223/leetcode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Anshupathak223/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Anshupathak223/leetcode/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |
