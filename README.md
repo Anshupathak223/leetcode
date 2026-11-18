@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshupathak223/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Anshupathak223/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshupathak223/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anshupathak223/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anshupathak223/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anshupathak223/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshupathak223/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Anshupathak223/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anshupathak223/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Anshupathak223/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Anshupathak223/leetcode/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anshupathak223/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Anshupathak223/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshupathak223/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2351-first-letter-to-appear-twice](https://github.com/Anshupathak223/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
